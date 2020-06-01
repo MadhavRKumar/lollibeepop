@@ -1,0 +1,14 @@
+{
+  "name": "lollibeepop",
+  "version": "1.0.0",
+  "description": "Personal website for lollibeepop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lollibeepop"
+  ],
+  "author": "MadhavRKumar",
+  "license": "ISC"
+}
